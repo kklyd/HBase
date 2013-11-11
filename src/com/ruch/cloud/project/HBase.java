@@ -2,7 +2,7 @@ package com.ruch.cloud.project;
 import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
-//hello
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.hbase.HBaseConfiguration;
 import org.apache.hadoop.hbase.HColumnDescriptor;
